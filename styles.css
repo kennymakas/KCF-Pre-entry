@@ -10,6 +10,7 @@ body {
     cursor: pointer;
     transition: background-color 0.3s;
     color: rgb(6, 6, 32);
+    text-align: center;
 }
 .genre-item:hover {
     background-color: #dcdcdc;
