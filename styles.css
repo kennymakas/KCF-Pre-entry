@@ -1,0 +1,17 @@
+body {
+    font-family: 'YourChosenGoogleFont', sans-serif;
+}
+.genre-item {
+    background-color: #f0f0f0;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.genre-item:hover {
+    background-color: #dcdcdc;
+}
+.movie-item {
+    text-align: center;
+}
+/* tailwind */
