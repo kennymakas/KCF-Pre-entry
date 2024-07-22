@@ -1,5 +1,7 @@
 body {
     font-family: 'YourChosenGoogleFont', sans-serif;
+    background-color: rgb(16, 26, 67);
+    color: whitesmoke;
 }
 .genre-item {
     background-color: #f0f0f0;
@@ -7,6 +9,7 @@ body {
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s;
+    color: rgb(6, 6, 32);
 }
 .genre-item:hover {
     background-color: #dcdcdc;
